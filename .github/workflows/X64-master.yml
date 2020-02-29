@@ -9,7 +9,7 @@ name: X64-Master
 
 on:
   watch:      
-    types: [started]
+    types: [stared]
 # schedule:
 #    - cron: 0 30 * * *
 #  push:
