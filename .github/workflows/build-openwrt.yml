@@ -26,7 +26,6 @@ env:
   SSH_ACTIONS: true
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: false
-  MyLastTime: 20201112 
   TZ: Asia/Shanghai
 
 jobs:
